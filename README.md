@@ -1,1 +1,3 @@
-# HOUSE-PRICE-PRED
+{
+    "python.pythonPath": ".venv/bin/python"
+}
